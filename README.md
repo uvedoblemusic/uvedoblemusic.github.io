@@ -2,4 +2,4 @@
 Page for WhbeatZ
 
 
-<h1>https://bit.ly/wstudio-info</h1>
+<h1>https://uvedoblemusic.github.io</h1>
