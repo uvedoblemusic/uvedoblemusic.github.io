@@ -119,3 +119,45 @@ audio {
 		font-size: 17px;
 	}
 }
+
+.marcos {
+}
+
+.caca {
+  color: whitesmoke;
+}
+
+tr {
+background-color: black;
+}
+
+th, td {
+  border: 1px solid #000;
+  padding: 8px;
+  background-color: #393939;
+  transition: box-shadow 0.3s;
+  color: white;
+  border-color: white;
+  border: px;
+}
+  
+  
+  
+th:hover {
+  box-shadow: 0px 4px 40px rgb(255, 251, 0);
+}
+
+
+td:hover {
+ box-shadow: 0px 4px 40px rgb(255, 252, 89);
+}
+
+tj{
+  border: 1px solid #000;
+  padding: 8px;
+  background-color: #393939;
+  transition: box-shadow 0.3s;
+  color: white;
+  border-color: white;
+  border: px;
+}
